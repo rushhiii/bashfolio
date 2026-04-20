@@ -1,5 +1,9 @@
-<!-- [![Banner](./assets/repo_banner_1.png)](https://github.com/rushhiii/bashfolio) -->
+<!--
+[![Banner](./assets/repo_banner_1.png)](https://github.com/rushhiii/bashfolio) 
 <img src="./assets/repo_banner_1.png" style="border-radius: 4rem;" alt="repo_banner">
+-->
+[![Banner](https://raw.githubusercontent.com/rushhiii/bashfolio/refs/heads/main/assets/repo_banner_1.png)](https://github.com/rushhiii/bashfolio)
+
 
 <h1>✯ Terminal Portfolio - Bashfolio</h1>
 
