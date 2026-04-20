@@ -1,5 +1,5 @@
 <!-- [![Banner](./assets/repo_banner_1.png)](https://github.com/rushhiii/bashfolio) -->
-<img src="./assets/repo_banner_1.png" style="border-radius: 20px;" alt="repo_banner">
+<img src="./assets/repo_banner_1.png" style="border-radius: 4rem;" alt="repo_banner">
 
 <h1>✯ Terminal Portfolio - Bashfolio</h1>
 
